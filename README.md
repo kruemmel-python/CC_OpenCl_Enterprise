@@ -1,4 +1,5 @@
 # CC_OpenCl Driver
+<img width="2752" height="1536" alt="info" src="https://github.com/user-attachments/assets/80541111-8026-46e9-bc47-1b79da6f7dd8" />
 
 Standalone-Projekt fuer den kompilierbaren `CC_OpenCl` OpenCL-Treiber.
 
