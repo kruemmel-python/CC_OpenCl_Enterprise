@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+bin/
+lib/
+*.dll
+*.dll.a
+*.exe
+*.log
+*.zip
+.vscode/

@@ -1,0 +1,8 @@
+{
+  "name": "cc-opencl-enterprise",
+  "version-string": "1.0.1",
+  "description": "Standalone CC_OpenCl OpenCL driver DLL with tensor, simulation, quantum-inspired and enterprise algorithms",
+  "homepage": "https://github.com/kruemmel-python/CC_OpenCl_Enterprise",
+  "license": "GPL-3.0-or-later",
+  "dependencies": []
+}
